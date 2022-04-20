@@ -1,3 +1,7 @@
 int custid, read customer name, read customer type
 read custid, customer name, customer type
 print custid, customer name, customer type
+if customer type ="A" give 20% discount
+else 
+give 2% discount
+end if 

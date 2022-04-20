@@ -1,3 +1,5 @@
 int custid, read customer name, read customer type
 read custid, customer name, customer type
 print custid, customer name, customer type
+if customer has paid the bill on time treat hiim with a goulden coupon
+or give a normal coupon

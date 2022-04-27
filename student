@@ -1,3 +1,6 @@
 string student name
 int student id
 float mark 1, mark 2, mark 3
+read mark1, mark2, mark 3
+average=mark1+mark2+mark3/3
+print average

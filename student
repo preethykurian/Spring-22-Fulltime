@@ -1,3 +1,4 @@
 string student name
 int student id
 float mark 1, mark 2, mark 3
+print mark1;
